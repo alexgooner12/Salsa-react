@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45b6031ece6efa60b6694d6b59c55e05",
+    "revision": "70e8dbb070648a2b9b4260adb5cc8506",
     "url": "/Salsa-react/index.html"
   },
   {
-    "revision": "89833309165c4896206e",
+    "revision": "9f2a611569bc01eca31d",
     "url": "/Salsa-react/static/css/main.b20c16af.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Salsa-react/static/js/2.ad52ec05.chunk.js"
   },
   {
-    "revision": "89833309165c4896206e",
-    "url": "/Salsa-react/static/js/main.93eb33da.chunk.js"
+    "revision": "9f2a611569bc01eca31d",
+    "url": "/Salsa-react/static/js/main.985bc045.chunk.js"
   },
   {
     "revision": "9caa89e17d68f932170e",
