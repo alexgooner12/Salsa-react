@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Salsa-react/index.html/static/css/main.9e34c5a3.chunk.css",
-    "main.js": "/Salsa-react/index.html/static/js/main.91e09d6d.chunk.js",
-    "main.js.map": "/Salsa-react/index.html/static/js/main.91e09d6d.chunk.js.map",
-    "runtime~main.js": "/Salsa-react/index.html/static/js/runtime~main.2c057b9f.js",
-    "runtime~main.js.map": "/Salsa-react/index.html/static/js/runtime~main.2c057b9f.js.map",
-    "static/js/2.09e2f915.chunk.js": "/Salsa-react/index.html/static/js/2.09e2f915.chunk.js",
-    "static/js/2.09e2f915.chunk.js.map": "/Salsa-react/index.html/static/js/2.09e2f915.chunk.js.map",
-    "index.html": "/Salsa-react/index.html/index.html",
-    "precache-manifest.214b276928c9d62a48eedd13e07ead90.js": "/Salsa-react/index.html/precache-manifest.214b276928c9d62a48eedd13e07ead90.js",
-    "service-worker.js": "/Salsa-react/index.html/service-worker.js",
-    "static/css/main.9e34c5a3.chunk.css.map": "/Salsa-react/index.html/static/css/main.9e34c5a3.chunk.css.map"
+    "main.css": "/Salsa-react/static/css/main.9e34c5a3.chunk.css",
+    "main.js": "/Salsa-react/static/js/main.a1a22950.chunk.js",
+    "main.js.map": "/Salsa-react/static/js/main.a1a22950.chunk.js.map",
+    "runtime~main.js": "/Salsa-react/static/js/runtime~main.a1784581.js",
+    "runtime~main.js.map": "/Salsa-react/static/js/runtime~main.a1784581.js.map",
+    "static/js/2.b4acd664.chunk.js": "/Salsa-react/static/js/2.b4acd664.chunk.js",
+    "static/js/2.b4acd664.chunk.js.map": "/Salsa-react/static/js/2.b4acd664.chunk.js.map",
+    "index.html": "/Salsa-react/index.html",
+    "precache-manifest.d12bc014aace980e90f20b5ce9df3022.js": "/Salsa-react/precache-manifest.d12bc014aace980e90f20b5ce9df3022.js",
+    "service-worker.js": "/Salsa-react/service-worker.js",
+    "static/css/main.9e34c5a3.chunk.css.map": "/Salsa-react/static/css/main.9e34c5a3.chunk.css.map"
   }
 }

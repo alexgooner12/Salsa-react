@@ -43,6 +43,7 @@
       "sizes": "512x512"
     }
   ],
+  "homepage": "https://alexgooner12.github.io/Salsa-react/index.html",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
