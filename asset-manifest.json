@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Salsa-react/static/css/main.9e34c5a3.chunk.css",
+    "main.css": "/Salsa-react/static/css/main.1815e02e.chunk.css",
     "main.js": "/Salsa-react/static/js/main.a1a22950.chunk.js",
     "main.js.map": "/Salsa-react/static/js/main.a1a22950.chunk.js.map",
     "runtime~main.js": "/Salsa-react/static/js/runtime~main.a1784581.js",
@@ -8,8 +8,8 @@
     "static/js/2.b4acd664.chunk.js": "/Salsa-react/static/js/2.b4acd664.chunk.js",
     "static/js/2.b4acd664.chunk.js.map": "/Salsa-react/static/js/2.b4acd664.chunk.js.map",
     "index.html": "/Salsa-react/index.html",
-    "precache-manifest.d12bc014aace980e90f20b5ce9df3022.js": "/Salsa-react/precache-manifest.d12bc014aace980e90f20b5ce9df3022.js",
+    "precache-manifest.3ec217ef994a96cb7d5f560931c33812.js": "/Salsa-react/precache-manifest.3ec217ef994a96cb7d5f560931c33812.js",
     "service-worker.js": "/Salsa-react/service-worker.js",
-    "static/css/main.9e34c5a3.chunk.css.map": "/Salsa-react/static/css/main.9e34c5a3.chunk.css.map"
+    "static/css/main.1815e02e.chunk.css.map": "/Salsa-react/static/css/main.1815e02e.chunk.css.map"
   }
 }
