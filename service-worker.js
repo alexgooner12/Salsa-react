@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Salsa-react/precache-manifest.5a5b5e619845293804645d4a38d54eb1.js"
+  "/Salsa-react/precache-manifest.da296578ec7389cac66bb64d8067b227.js"
 );
 
 self.addEventListener('message', (event) => {
