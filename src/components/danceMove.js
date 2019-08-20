@@ -48,9 +48,6 @@ class DanceMove extends React.Component {
                                 <Form.Control type='text' value={this.state.updatedDanceMove.name} onChange={event => this.getEditingValue('name', event)} />
                             </td>
                             <td>
-                                <Form.Label column sm={{ span: 3, offset: 2 }} htmlFor={this.state.updatedDanceMove.id}>Difficulty</Form.Label>
-                            </td>
-                            <td>
                                 <Form.Control as='select' id={this.state.updatedDanceMove.id} value={this.state.updatedDanceMove.difficulty} onChange={event => this.getEditingValue('difficulty', event)}>
                                     <option value="beginner">beginner</option>
                                     <option value="intermidiate">intermidiate</option>

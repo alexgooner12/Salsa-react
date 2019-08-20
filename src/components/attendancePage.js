@@ -80,7 +80,7 @@ class AttendancePage extends React.Component {
             </>
             : 
             <div className="instructions">
-                <Link to="/">Create a schedule first</Link>
+                <Link to="Salsa-react">Create a schedule first</Link>
             </div>
         )
     }

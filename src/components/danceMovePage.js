@@ -53,7 +53,7 @@ class DanceMovePage extends React.Component {
 
     sortDanceMovesBySelectedValue = selectedValue => {
         const danceListCopy = Array.from(this.state.danceList);
-        return danceListCopy.sort((a, b) => a[selectedValue] > b[selectedValue] ? 1 : -1);
+        return danceListCopy.sort((a, b) => a[selectedValue] > b[selectedValue] ? -1 : 1);
     }
 
     render() {
@@ -62,7 +62,7 @@ class DanceMovePage extends React.Component {
                 <h2 className="heading heading--secondary">Dance List</h2>
                 <Form onSubmit={this.handleAddDanceMove}>
                     <Form.Group as={Row}>
-                        <Col sm={{ span: 3, offset: 4 }}>
+                        <Col sm={{ span: 3, offset: 3 }} md={{ span: 3, offset: 4 }}>
                             <Form.Control type="text" placeholder="Add a dance move" value={this.state.name} onChange={event => this.handleDanceMove('name', event)} required />
                         </Col>
                         <Col sm={{ span: 2, offset: 0 }}>
@@ -98,9 +98,7 @@ class DanceMovePage extends React.Component {
                                 <tbody>
                                     {
                                         this.state.danceList.length ?
-                                            this.state.danceList.map(el => {
-                                                return <DanceMove key={el.id} danceMove={el} deleteDanceMove={this.props.deleteDanceMove} editDanceMove={this.props.editDanceMove} />
-                                            })
+                                            this.state.danceList.map(el => <DanceMove key={el.id} danceMove={el} deleteDanceMove={this.props.deleteDanceMove} editDanceMove={this.props.editDanceMove} />)
                                             : null
                                     }
                                 </tbody>

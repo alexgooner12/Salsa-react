@@ -46,7 +46,7 @@ class GroupListPage extends React.Component {
                 <h2 className="heading heading--secondary">Group List</h2>
                 <Form onSubmit={this.handleAddGroup}>
                     <Form.Group as={Row}>
-                        <Col sm={{ span: 4, offset: 4 }}>
+                        <Col sm={{ span: 4, offset: 3 }} md={{ span: 4, offset: 4 }}>
                             <Form.Control type="text" placeholder="Add a group" value={this.state.name} onChange={this.getGroupValue} />
                         </Col>
                         <Button className='button--custom' variant='success' type='submit'>Confirm</Button>

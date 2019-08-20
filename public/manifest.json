@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Salsa",
+  "name": "Salsa-app",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,37 +8,37 @@
       "type": "image/x-icon"
     },
     {
-      "src": "/img/agua-24-24.png",
+      "src": "img/agua-24-24.png",
       "type": "image/png",
       "sizes": "24x24"
     },
     {
-      "src": "/img/agua-36-36.png",
+      "src": "img/agua-36-36.png",
       "type": "image/png",
       "sizes": "36x36"
     },
     {
-      "src": "/img/agua-128-128.png",
+      "src": "img/agua-128-128.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/img/agua-152-152.png",
+      "src": "img/agua-152-152.png",
       "type": "image/png",
       "sizes": "152x152"
     },
     {
-      "src": "/img/agua-192-192.png",
+      "src": "img/agua-192-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/img/agua-256-256.png",
+      "src": "img/agua-256-256.png",
       "type": "image/png",
       "sizes": "256x256"
     },
     {
-      "src": "/img/agua-512-512.png",
+      "src": "img/agua-512-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
