@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Salsa-react/static/css/main.b20c16af.chunk.css",
-    "main.js": "/Salsa-react/static/js/main.4998c5a0.chunk.js",
-    "main.js.map": "/Salsa-react/static/js/main.4998c5a0.chunk.js.map",
-    "runtime~main.js": "/Salsa-react/static/js/runtime~main.a1784581.js",
-    "runtime~main.js.map": "/Salsa-react/static/js/runtime~main.a1784581.js.map",
-    "static/js/2.ad52ec05.chunk.js": "/Salsa-react/static/js/2.ad52ec05.chunk.js",
-    "static/js/2.ad52ec05.chunk.js.map": "/Salsa-react/static/js/2.ad52ec05.chunk.js.map",
-    "index.html": "/Salsa-react/index.html",
-    "precache-manifest.afb2e536c93029a1e7b70b2fe4b7a136.js": "/Salsa-react/precache-manifest.afb2e536c93029a1e7b70b2fe4b7a136.js",
-    "service-worker.js": "/Salsa-react/service-worker.js",
-    "static/css/main.b20c16af.chunk.css.map": "/Salsa-react/static/css/main.b20c16af.chunk.css.map"
+    "main.css": "/registration-page/static/css/main.b20c16af.chunk.css",
+    "main.js": "/registration-page/static/js/main.6a50a2c0.chunk.js",
+    "main.js.map": "/registration-page/static/js/main.6a50a2c0.chunk.js.map",
+    "runtime~main.js": "/registration-page/static/js/runtime~main.81d0a001.js",
+    "runtime~main.js.map": "/registration-page/static/js/runtime~main.81d0a001.js.map",
+    "static/js/2.3bbc0fbf.chunk.js": "/registration-page/static/js/2.3bbc0fbf.chunk.js",
+    "static/js/2.3bbc0fbf.chunk.js.map": "/registration-page/static/js/2.3bbc0fbf.chunk.js.map",
+    "index.html": "/registration-page/index.html",
+    "precache-manifest.fe3c185db6548f6c3bb1259f833ad1c7.js": "/registration-page/precache-manifest.fe3c185db6548f6c3bb1259f833ad1c7.js",
+    "service-worker.js": "/registration-page/service-worker.js",
+    "static/css/main.b20c16af.chunk.css.map": "/registration-page/static/css/main.b20c16af.chunk.css.map"
   }
 }
